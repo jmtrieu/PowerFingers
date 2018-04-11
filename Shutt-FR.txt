@@ -1,0 +1,10 @@
+
+Brady Shutt
+Functional Requirements
+
+1. The system shall keep track of typing accuracy.
+
+2. The system shall report mistakes as the user makes them.
+
+3. The system shall report a summary of all mistakes make after the user has finished. w
+

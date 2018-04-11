@@ -1,0 +1,10 @@
+
+Brady Shutt
+User Stories
+
+1. As a beginner player, I want to be shown instructions, so that I know how to play
+
+2. As a user, I want my statistics to be tracked, so I can see how I’ve improved over time.
+
+3. As a user, I want to be able to pause the game, so I can take a break when I get bored.
+
