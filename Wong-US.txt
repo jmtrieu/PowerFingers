@@ -1,0 +1,3 @@
+As a casual gamer, I want a game with save points, so that I can play where I last left off.
+As a gamer, I want a game with achievements, so that I can spend more time playing the game to 100% completion.
+As a gamer, I want a game with different modes, so that I can play the same game multiple times with different play styles.
