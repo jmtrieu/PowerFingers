@@ -1,0 +1,3 @@
+The system shall display the typing accuracy of the user after the test has been completed.
+The system shall store a new high score when the previous high score has been surpassed.
+The system shall end the test after one minute without input from the keyboard.
