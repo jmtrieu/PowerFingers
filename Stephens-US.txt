@@ -1,0 +1,4 @@
+User Stories
+1. As a beginner player, I want multiple difficulty levels, so I can continue to challenge myself as I improve.
+2. As a player, I want a user profile, so I can focus on beating my previous scores.
+3. As a user, I want to change the theme, so that I am more drawn to the game.

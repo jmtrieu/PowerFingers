@@ -1,0 +1,4 @@
+Functional Requirements
+1. The system shall display randomly generated sentences.
+2. The system shall provide multiple themes.
+3. The system shall provide multiple levels of difficulty for the user to select.
