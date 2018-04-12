@@ -1,0 +1,3 @@
+﻿1. As a beginner player, I would like a tutorial mode, so that I can learn how the game works.
+2. As a game player, I want different levels of difficulty, so that I can practice and improve my skills.
+3. As a player, I want rewards that will trade for things in the future, so that I will have incentive to keep playing.

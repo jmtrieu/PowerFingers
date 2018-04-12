@@ -1,0 +1,3 @@
+﻿1. The system shall have three difficulty modes: easy, medium, and hard.
+2. The system shall store thousands of predetermined sentences, varied in difficulty ( easy, medium, hard ).
+3. The system shall have a time limit of one minute for each game.
