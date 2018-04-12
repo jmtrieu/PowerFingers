@@ -1,0 +1,7 @@
+1. As a game player, I want to hear an audio cue that indicates my typing accuracy
+   so I have feedback on my performance.
+2. As a student, I wnat to have a way to track my progress over time, so that I know
+   what aspects of my typing I need to improve on.
+3. As an advanced user, I want to remap the keyboard, so I can practice different
+   layouts.
+

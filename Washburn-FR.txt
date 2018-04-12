@@ -1,0 +1,4 @@
+1. The system shall provide number of keys pressed.
+2. The system shall provide a visual representation of the proper typing layout.
+3. The system shall provide feedback during the game.
+
