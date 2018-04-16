@@ -1,0 +1,4 @@
+As a user, I would like sounds to play while I play, for my own listening pleasure. 
+As a beginner player, I would like instructions, so that I can learn how the game works.
+As a friend of a player, I would like the statistics given to make sense out of the game, so that I can understand how good my friend is. 
+

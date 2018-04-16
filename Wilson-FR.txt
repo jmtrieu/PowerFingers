@@ -1,0 +1,4 @@
+The system shall provide number of keys pressed.
+The system shall provide a list of mistakes made after every game.
+The system shall provide a visual representation of the proper typing layout5.
+
